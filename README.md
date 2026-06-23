@@ -1,6 +1,6 @@
 # AirCast
 
-**Open-source air quality monitoring device built on custom PCB**  
+**Open-source air quality monitoring device**  
 Real-time environmental sensing with Blynk dashboard and Discord webhook alerts.
 
 ---
