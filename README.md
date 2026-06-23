@@ -30,7 +30,7 @@ Real-time environmental sensing with Blynk dashboard and Discord webhook alerts.
 
 ## Overview
 
-AirCast is a custom PCB-based air quality monitoring system designed for indoor environments. It continuously reads temperature, humidity, atmospheric pressure, CO₂/TVOC levels, and particulate matter, then streams all data to a Blynk dashboard and sends threshold-based alerts to a Discord channel via webhook.
+AirCast is a air quality monitoring system designed for indoor and outdoor environments. It continuously reads temperature, humidity, atmospheric pressure, CO₂/TVOC levels, and particulate matter, then streams all data to a Blynk dashboard and sends threshold-based alerts to a Discord channel via webhook.
 
 Built around the ESP32, AirCast is designed to be self-contained, easy to deploy, and simple to extend.
 
@@ -44,7 +44,7 @@ Built around the ESP32, AirCast is designed to be self-contained, easy to deploy
 | Power | 3v3, 5v 2.54mm Pins  |
 | Connectivity | Wi-Fi 802.11 b/g/n, Ethernet, Bluetooth |
 | PCB | 1.6mm FR-4 2-layer 94.3 * 99.4mm |
-| Status LEDs | Active-low |
+| 4 Status LEDs | Active-low |
 
 ---
 
